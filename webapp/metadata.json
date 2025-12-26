@@ -1,0 +1,7 @@
+{
+  "name": "Noor Daily",
+  "description": "A mobile-first daily planner for Muslims featuring accurate prayer times, automated Adhan playback, daily Adhkar, and a custom prayer-relative reminder system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

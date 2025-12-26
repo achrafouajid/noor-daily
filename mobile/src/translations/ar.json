@@ -1,0 +1,43 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "retry": "أعد المحاولة"
+  },
+  "prayers": {
+    "title": "الصلوات",
+    "next_prayer": "الصلاة القادمة",
+    "fajr": "الفجر",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء",
+    "sunrise": "الشروق"
+  },
+  "adhkar": {
+    "title": "الأذكار",
+    "subtitle": "ذكر للقلب والروح",
+    "tap_to_count": "اضغط للعد"
+  },
+  "planner": {
+    "title": "المنظم",
+    "subtitle": "إدارة التنبيهات والتذكيرات",
+    "custom_reminders": "تذكيرات مخصصة",
+    "no_reminders": "لا توجد تذكيرات",
+    "add_new": "إضافة جديد",
+    "cancel": "إلغاء",
+    "message": "الرسالة",
+    "placeholder": "مثال: قراءة سورة الملك",
+    "timing": "التوقيت",
+    "relative_to": "بالنسبة لـ",
+    "before": "قبل",
+    "after": "بعد",
+    "prayer": "الصلاة",
+    "save": "حفظ التذكير"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "theme": "المظهر"
+  }
+}

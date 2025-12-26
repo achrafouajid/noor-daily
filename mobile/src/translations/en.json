@@ -1,0 +1,43 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "prayers": {
+    "title": "Prayers",
+    "next_prayer": "Next Prayer",
+    "fajr": "Fajr",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha",
+    "sunrise": "Sunrise"
+  },
+  "adhkar": {
+    "title": "Adhkar",
+    "subtitle": "Reminders for the soul",
+    "tap_to_count": "Tap card to count"
+  },
+  "planner": {
+    "title": "Planner",
+    "subtitle": "Manage notifications & reminders",
+    "custom_reminders": "Custom Reminders",
+    "no_reminders": "No custom reminders set",
+    "add_new": "Add New",
+    "cancel": "Cancel",
+    "message": "Message",
+    "placeholder": "e.g. Read Surah Mulk",
+    "timing": "Timing",
+    "relative_to": "Relative To",
+    "before": "Before",
+    "after": "After",
+    "prayer": "Prayer",
+    "save": "Save Reminder"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme"
+  }
+}
